@@ -1,0 +1,55 @@
+ body {
+     height: 100%;
+     width: 100%;
+     background-color: rgb(43, 42, 42);
+
+ }
+
+ #search {
+     width: 70%;
+     height: 2rem;
+     margin: 5rem 0 0 8rem;
+     border-radius: 10px;
+ }
+
+ #search1{
+    border-radius: 50px;
+    height: 36px;
+
+ }
+
+ .second {
+     display: flex;
+     flex-wrap: wrap;
+     margin: 5rem;
+
+ }
+
+ button {
+     margin-left: 1rem;
+     height: 1.8rem;
+     width: 5rem;
+
+ }
+
+ img {
+     width:100%;
+     border-radius: 15px;
+
+ }
+
+ .news-articles {
+     border: 1px solid black;
+     height: 32rem;
+     width: 20rem;
+     margin: 2rem;
+     background-color: white;
+     color: black;
+     border-radius: 15px;
+     
+
+ }
+
+ .news-articles h3, p, a{
+    padding-left: 10px;
+ }
